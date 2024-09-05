@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ThreatDragonModels",
+    "\\ThreatDragonModels\\Initial Threat Model"
   ],
-  "SelectedNode": "\\Login.html",
   "PreviewInSolutionExplorer": false
 }

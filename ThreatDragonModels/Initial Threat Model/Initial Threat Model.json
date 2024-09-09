@@ -2,8 +2,8 @@
   "version": "2.2.0",
   "summary": {
     "title": "Initial Threat Model",
-    "owner": "Test",
-    "description": "Test",
+    "owner": "Giovanni Rosas-Marin",
+    "description": "This initial Threat Model is built based on a Message Board applications.\nThe system sample is as Follows:\nPresents the user with a login page (username and password)\nUses an open source component to authenticate the user credentials against a database\nIf the username and password presented exist in the database, present the user with a message-of-the-day stored in the database\nAllow the user to comment on the message-of-the-day (comments will be stored in the database)",
     "id": 0
   },
   "detail": {
@@ -20,7 +20,7 @@
       }
     ],
     "diagramTop": 1,
-    "reviewer": "Test",
+    "reviewer": "SWE-550-Professor-Todd",
     "threatTop": 0
   }
 }
